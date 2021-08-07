@@ -1,1 +1,1 @@
-# spotify-pca-and-machine-learning-
+In this project we are trying to find correlation pattern of a song feature with other features. For example: can energy of a song and loudness be correlated? We have analyzed approximately 1million records with around 14 sets of features. We have done dimensionality reduction using principal component analysis by standardizing all features and reducing a complex dataset to lower dimension to reveal  hidden, simplified structure that often underlie it. It is useful in while performing Machine Learning algorithms.
